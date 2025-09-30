@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l+UGfkPqJEc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlTen\\OtherProjects\\RealTimeServerSentEvents\\RealTimeServerSentEvents\\RealTimeServerSentEvents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlTen\\.nuget\\packages\\modity.timeseries\\1.0.8\\modity.timeseries.1.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

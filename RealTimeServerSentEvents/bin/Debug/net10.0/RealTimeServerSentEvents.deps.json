@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RealTimeServerSentEvents/1.0.0": {
+        "dependencies": {
+          "Modity.TimeSeries": "1.0.8"
+        },
+        "runtime": {
+          "RealTimeServerSentEvents.dll": {}
+        }
+      },
+      "Modity.TimeSeries/1.0.8": {
+        "runtime": {
+          "lib/net9.0/Modity.TimeSeries.dll": {
+            "assemblyVersion": "1.0.8.0",
+            "fileVersion": "1.0.8.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RealTimeServerSentEvents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modity.TimeSeries/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z02KzuoyMja+SiTD0Nfx9WPxljbrVfyFDUXYVQ9OE6pAlwiacuaMtIz9Wjxr7UNyJT7gZh25Ym/owmlqVzN5yw==",
+      "path": "modity.timeseries/1.0.8",
+      "hashPath": "modity.timeseries.1.0.8.nupkg.sha512"
+    }
+  }
+}
